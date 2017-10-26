@@ -1,7 +1,6 @@
 1. inserisci immagini
 2. inizio modellazione gamba
 3. altra modifica
-4. copia gambe
-5. inizio ripiano
-6. fine ripiano
-7. Altre cose
+4. Piano sopra
+5. Aggiunta cassetto
+&. Dettagli
